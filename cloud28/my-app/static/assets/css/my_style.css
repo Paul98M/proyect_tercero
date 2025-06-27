@@ -98,12 +98,7 @@ body {
   border-radius: 50%;
 }
 
-.menu-vertical,
-.menu-vertical .menu-block,
-.menu-vertical .menu-inner > .menu-item,
-.menu-vertical .menu-inner > .menu-header {
-  width: 20.25rem !important;
-}
+
 
 .noLeido {
   color: #272e37;
@@ -168,12 +163,6 @@ tbody tr:hover {
 
 .menu-vertical .menu-inner > .menu-item .menu-link {
   margin: 0 !important;
-}
-.menu-vertical,
-.menu-vertical .menu-block,
-.menu-vertical .menu-inner > .menu-item,
-.menu-vertical .menu-inner > .menu-header {
-  width: 17.25rem !important;
 }
 
 @media (min-width: 1400px) {
